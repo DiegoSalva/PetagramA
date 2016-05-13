@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PetagramA</string>
+    <string name="texto_boton_click">CLICK</string>
+    <string name="mensaje">Favorito :)</string>
+    <string name="texto_titulo">Título</string>
+    <string name="texto_accion">Acción</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+    </string-array>
+    <string name="titulo_tarjeta">Android 5.0</string>
+    <string name="descripcion">Esta es la versiòn en la que se incluyò material design, Android Lollipop</string>
+
+</resources>
